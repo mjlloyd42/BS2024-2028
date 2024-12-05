@@ -1,13 +1,11 @@
 # ECE-1000 FALL 2024 FINAL PROJECT: ROBOTIC ARM
 This GitHub contains all relevant files used during the development of our Robotic Arm project for ECE 1000.
 ## Project Summary
-  For our final project we created a robotic arm to simply move from left and right and pick up objects. The project involved the use of a Raspberry Pi Pico, a Wii nunchuck, servo motors and some wiring. Three motors were used but one motor is controlled by the joystick at a time. You could switch to each motor by pressing a button.
+  For this project, we created a robotic arm that moves along the x and y axis with claw capabilities. The materials used were a Raspberry Pi Pico W mounted on a pico-breadboard, 3 micro-servomotors, and an analog 2-axis joystick. Thonny IDE was used to write to the Raspberry Pi for programming. All three motors can be moved simultaneously with the use of a single joystick based on the x- and y-coordinates of the joystick, and whether the button was pressed or not. 
 
 ## Project Capabilities 
-  Motors can be controlled using a joystick
-  Taking control of different motors 
-
-* points here
+  * A single joystick is used to move and control three micro-servomotors simultaneously.
+  * The joystick can be used to initiate a 'claw' effect on the third micro-servomotor. 
 
 ## Who Are We? 
 
