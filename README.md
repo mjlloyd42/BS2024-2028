@@ -12,3 +12,13 @@ This GitHub contains all relevant files used during the development of our Robot
 * Jericho Lloyd - Freshman Computer Engineering Major, Computer Science Minor - Micropython/Joystick-Servomotors Programmer 
 * Gabriel Roessler - Sophomore Computer Engineering - Micropython Programming, Coordinator
 * Dalton Hall - 
+
+## Link to Project
+
+* https://github.com/mjlloyd42/ECE-1000-Fall-2024-Final-Project/tree/main
+
+## Links
+
+* link to reference code
+* link to toptechboy servos video
+* link to arm
