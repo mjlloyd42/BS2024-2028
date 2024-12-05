@@ -15,7 +15,7 @@ This GitHub contains all relevant files used during the development of our Robot
 
 ## Link to Project
 
-* https://github.com/mjlloyd42/ECE-1000-Fall-2024-Final-Project/tree/main
+* https://github.com/mjlloyd42/ECE-1000-Fall-2024-Final-Project/
 
 ## Links
 
