@@ -20,6 +20,6 @@ This GitHub repository contains all relevant files used during the development o
 
 ## Links
 
-* link to reference code
-* link to toptechboy servos video
-* link to the robotic arm: https://www.thingiverse.com/thing:1454048
+* [Reference Code](https://github.com/JCWilliams1003/ECE-1000-Spring-2024-Final-Project-Insert-Project-Name/blob/2d2f07f00d5e50eaa687a12897fc042d79ecc809/Example%20Micropython%20Codes/ECE_1000_Joystick_Servo_Example.py)
+* [TopTechBoy Videos](https://toptechboy.com/calibrating-joystick-to-show-positional-angle-in-micropython-on-the-raspberry-pi-pico-w/)
+* [Robotic Arm on Thingiverse](https://www.thingiverse.com/thing:1454048)
