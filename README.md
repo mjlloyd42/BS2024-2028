@@ -12,7 +12,7 @@ This GitHub repository contains all relevant files used during the development o
 
 * Jericho Lloyd - Freshman Computer Engineering Major, CS Minor - Joystick-Servomotors Program Developer
 * Gabriel Roessler - Sophomore Computer Engineering - Micropython Programming, Coordinator
-* Dalton Hall -
+* Dalton Hall - Freshman Electrical Engineering Major- 3-D Printing
 
 ## Link to Project
 
