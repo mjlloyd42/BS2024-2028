@@ -22,4 +22,4 @@ This GitHub repository contains all relevant files used during the development o
 
 * link to reference code
 * link to toptechboy servos video
-* link to arm
+* link to the robotic arm: https://www.thingiverse.com/thing:1454048
